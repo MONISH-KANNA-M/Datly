@@ -27,25 +27,25 @@ Datly uses **LLMs, LangGraph, DuckDB, and FastAPI** to understand the user's int
 ## 📸 Screenshots
 
 ### 🔐 Authentication
-![Datly Authentication](docs/screenshots/img_1.png)
+![Datly Authentication](docs/Screenshots/img_1.png)
 
 ### 💬 Conversational AI
-![Datly Chat](docs/screenshots/img_2.png)
+![Datly Chat](docs/Screenshots/img_2.png)
 
 ### 📊 Data Visualization
-![Datly Visualization](docs/screenshots/img_4.png)
+![Datly Visualization](docs/Screenshots/img_4.png)
 
 ### 📁 Data Querying
-![Datly Datasets](docs/screenshots/img_5.png)
+![Datly Datasets](docs/Screenshots/img_5.png)
 
 ### 🧠 Insights
 ![Datly Schema](docs/screenshots/img_3.png)
 
 ### 🔍 Data Quality & Anomaly Detection
-![Datly Data Quality](docs/screenshots/img_6.png)
+![Datly Data Quality](docs/Screenshots/img_6.png)
 
 ### ⚡ Dashboard Generation
-![Datly Insights](docs/screenshots/img_7.png)
+![Datly Insights](docs/Screenshots/img_7.png)
 
 
 ## ✨ Features
