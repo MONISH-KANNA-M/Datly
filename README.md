@@ -162,7 +162,7 @@ graph TD
 ![Datly Datasets](docs/Screenshots/img_5.png)
 
 ### 🧠 Insights
-![Datly Schema](docs/screenshots/img_3.png)
+![Datly Schema](docs/Screenshots/img_3.png)
 
 ### 🔍 Data Quality & Anomaly Detection
 ![Datly Data Quality](docs/Screenshots/img_6.png)
