@@ -1,0 +1,8 @@
+order_id,customer_id,product,amount,order_date
+101,1,Laptop,1200.00,2024-01-10
+102,2,Smartphone,800.00,2024-01-15
+103,1,Headphones,150.00,2024-02-01
+104,3,Tablet,450.00,2024-02-12
+105,4,Monitor,300.00,2024-02-20
+106,2,Keyboard,100.00,2024-02-28
+107,1,Mouse,50.00,2024-03-02

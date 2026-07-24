@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="dbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#636efa" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <linearGradient id="chatGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a5b4fc" />
+      <stop offset="100%" stop-color="#636efa" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Premium dark background rounded container -->
+  <rect width="512" height="512" rx="128" fill="#0e0e12" />
+  
+  <g transform="translate(0, -10)">
+    <!-- Glowing Database Cylinder (Data/SQL representation) -->
+    <g filter="url(#glow)">
+      <!-- Cylinder top base -->
+      <ellipse cx="230" cy="180" rx="90" ry="28" fill="url(#dbGrad)" />
+      
+      <!-- Cylinder body middle segment -->
+      <path d="M 140 180 A 90 28 0 0 0 320 180 L 320 250 A 90 28 0 0 1 140 250 Z" fill="url(#dbGrad)" opacity="0.85" />
+      <ellipse cx="230" cy="250" rx="90" ry="28" fill="none" stroke="#0e0e12" stroke-width="5" />
+      
+      <!-- Cylinder body lower segment -->
+      <path d="M 140 250 A 90 28 0 0 0 320 250 L 320 320 A 90 28 0 0 1 140 320 Z" fill="url(#dbGrad)" opacity="0.65" />
+    </g>
+
+    <!-- Overlaying Chat Dialogue Bubble (Natural Language translation) -->
+    <g filter="url(#glow)">
+      <!-- Bubble background card -->
+      <rect x="230" y="260" width="160" height="110" rx="28" fill="url(#chatGrad)" stroke="#0e0e12" stroke-width="8" />
+      
+      <!-- Bubble pointer tail -->
+      <path d="M 265 365 L 245 400 L 295 367 Z" fill="url(#chatGrad)" stroke="#0e0e12" stroke-width="8" stroke-linejoin="round" />
+      <path d="M 266 362 L 245 400 L 295 367 Z" fill="url(#chatGrad)" />
+      
+      <!-- Mock conversational text lines inside -->
+      <rect x="270" y="295" width="80" height="8" rx="4" fill="#0e0e12" opacity="0.8" />
+      <rect x="270" y="315" width="55" height="8" rx="4" fill="#0e0e12" opacity="0.8" />
+    </g>
+  </g>
+</svg>

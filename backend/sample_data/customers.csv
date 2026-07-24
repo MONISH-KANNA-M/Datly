@@ -1,0 +1,11 @@
+customer_id,name,email,city,join_date
+1,Alice Johnson,alice@example.com,New York,2025-01-15
+2,Bob Smith,bob@example.com,Los Angeles,2025-01-20
+3,Charlie Brown,charlie@example.com,Chicago,2025-02-10
+4,Diana Prince,diana@example.com,New York,2025-02-14
+5,Evan Wright,evan@example.com,Boston,2025-03-01
+6,Fiona Gallagher,fiona@example.com,Chicago,2025-03-12
+7,George Costanza,george@example.com,New York,2025-04-05
+8,Harriet Tubman,harriet@example.com,Boston,2025-04-18
+9,Ian Malcolm,ian@example.com,Los Angeles,2025-05-01
+10,Julia Roberts,julia@example.com,Los Angeles,2025-05-15
