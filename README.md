@@ -23,31 +23,6 @@ Datly uses **LLMs, LangGraph, DuckDB, and FastAPI** to understand the user's int
   <img src="https://img.shields.io/badge/Groq-Cloud_LLM-orange" />
 </p>
 
----
-## 📸 Screenshots
-
-### 🔐 Authentication
-![Datly Authentication](docs/Screenshots/img_1.png)
-
-### 💬 Conversational AI
-![Datly Chat](docs/Screenshots/img_2.png)
-
-### 📊 Data Visualization
-![Datly Visualization](docs/Screenshots/img_4.png)
-
-### 📁 Data Querying
-![Datly Datasets](docs/Screenshots/img_5.png)
-
-### 🧠 Insights
-![Datly Schema](docs/screenshots/img_3.png)
-
-### 🔍 Data Quality & Anomaly Detection
-![Datly Data Quality](docs/Screenshots/img_6.png)
-
-### ⚡ Dashboard Generation
-![Datly Insights](docs/Screenshots/img_7.png)
-
-
 ## ✨ Features
 
 ### 🤖 AI-Powered Data Analysis
@@ -173,6 +148,31 @@ graph TD
 ```
 
 ---
+
+## 📸 Screenshots
+
+### 🔐 Authentication
+![Datly Authentication](docs/Screenshots/img_1.png)
+
+### 💬 Conversational AI
+![Datly Chat](docs/Screenshots/img_2.png)
+
+### 📊 Data Visualization
+![Datly Visualization](docs/Screenshots/img_4.png)
+
+### 📁 Data Querying
+![Datly Datasets](docs/Screenshots/img_5.png)
+
+### 🧠 Insights
+![Datly Schema](docs/screenshots/img_3.png)
+
+### 🔍 Data Quality & Anomaly Detection
+![Datly Data Quality](docs/Screenshots/img_6.png)
+
+### ⚡ Dashboard Generation
+![Datly Insights](docs/Screenshots/img_7.png)
+
+
 
 ## 🔄 Query Processing Workflow
 
