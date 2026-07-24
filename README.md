@@ -13,6 +13,16 @@ Instead of manually writing SQL queries, users can simply ask questions such as:
 
 Datly uses **LLMs, LangGraph, DuckDB, and FastAPI** to understand the user's intent, discover the relevant schema, generate safe SQL, execute analytical queries, detect anomalies, recommend visualizations, and generate meaningful insights.
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Vite-blue" />
+  <img src="https://img.shields.io/badge/FastAPI-Python-green" />
+  <img src="https://img.shields.io/badge/DuckDB-Analytics-yellow" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic_AI-purple" />
+  <img src="https://img.shields.io/badge/Ollama-Local_LLM-black" />
+  <img src="https://img.shields.io/badge/Groq-Cloud_LLM-orange" />
+</p>
+
 ---
 
 ## ✨ Features
