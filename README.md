@@ -147,8 +147,6 @@ graph TD
     Response --> Frontend
 ```
 
----
-
 ## 📸 Screenshots
 
 ### 🔐 Authentication
